@@ -1,3 +1,12 @@
+---
+license: apache-2.0
+title: Search Engine
+sdk: streamlit
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+short_description: Search engine with LLM
+---
 Here’s a summary of your code for the README file in your GitHub repository:
 
 ---
