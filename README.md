@@ -1,17 +1,3 @@
-<<<<<<< HEAD
-=======
----
-license: apache-2.0
-title: Search Engine
-sdk: streamlit
-emoji: 🚀
-colorFrom: blue
-colorTo: green
-short_description: Search engine with LLM
----
-Here’s a summary of your code for the README file in your GitHub repository:
-
->>>>>>> eef302cddcc88ca65bbd96f1bb6535a06e95c6b0
 ---
 
 ## LangChain - Chat with Search
