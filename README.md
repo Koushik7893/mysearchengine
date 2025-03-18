@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+=======
+---
+license: apache-2.0
+title: Search Engine
+sdk: streamlit
+emoji: 🚀
+colorFrom: blue
+colorTo: green
+short_description: Search engine with LLM
+---
+Here’s a summary of your code for the README file in your GitHub repository:
+
+>>>>>>> eef302cddcc88ca65bbd96f1bb6535a06e95c6b0
 ---
 
 ## LangChain - Chat with Search
@@ -19,7 +33,7 @@ This Streamlit application integrates with **LangChain** to provide a chatbot th
 ### Setup:
 1. Clone the repository and install the required dependencies.
 2. Add your Groq API key in the app sidebar to enable the chatbot's functionality.
-3. Run the app locally with `streamlit run <your_file.py>`.
+3. Run the app locally with `streamlit run <app.py>`.
 
 For more LangChain and Streamlit integrations, visit the official [LangChain GitHub page](https://github.com/langchain-ai/streamlit-agent).
 
