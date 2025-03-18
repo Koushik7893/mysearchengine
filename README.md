@@ -1,5 +1,3 @@
-Here’s a summary of your code for the README file in your GitHub repository:
-
 ---
 
 ## LangChain - Chat with Search
@@ -27,4 +25,3 @@ For more LangChain and Streamlit integrations, visit the official [LangChain Git
 
 ---
 
-This summary should explain the functionality and setup of the project concisely.
